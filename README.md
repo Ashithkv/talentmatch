@@ -1,6 +1,6 @@
 # TalentMatch
 
-A small, fully-working resume-to-job matching application, built as a portfolio
+Fully-working resume-to-job matching application, built as a portfolio
 project for a Python Developer / AI Engineer interview.
 
 You upload a candidate's resume (PDF) and paste a job description. TalentMatch
